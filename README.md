@@ -1,1 +1,1 @@
-# slides_dinaco
+# criação de slides automáticos
