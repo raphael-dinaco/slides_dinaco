@@ -1,0 +1,31 @@
+_______________________________________________
+Details for layout 0: Resumo
+Placeholder index: 0, Type: CENTER_TITLE (3), Name: 'Title 1'
+Placeholder index: 1, Type: SUBTITLE (4), Name: 'Subtitle 2'
+Placeholder index: 10, Type: DATE (16), Name: 'Date Placeholder 3'
+Placeholder index: 11, Type: FOOTER (15), Name: 'Footer Placeholder 4'
+Placeholder index: 12, Type: SLIDE_NUMBER (13), Name: 'Slide Number Placeholder 5''
+_______________________________________________
+Details for layout 1: Grafico_simples
+Placeholder index: 0, Type: TITLE (1), Name: 'Title 1'
+Placeholder index: 10, Type: CHART (8), Name: 'Espaço Reservado para Gráfico 4'
+Placeholder index: 12, Type: BODY (2), Name: 'Espaço Reservado para Texto 5'
+_______________________________________________
+Details for layout 2: Grafico Cuplo
+Placeholder index: 0, Type: TITLE (1), Name: 'Title 1'
+Placeholder index: 10, Type: CHART (8), Name: 'Espaço Reservado para Gráfico 4'
+Placeholder index: 11, Type: BODY (2), Name: 'Espaço Reservado para Texto 5'
+Placeholder index: 12, Type: BODY (2), Name: 'Espaço Reservado para Texto 5'
+Placeholder index: 13, Type: CHART (8), Name: 'Espaço Reservado para Gráfico 4'
+Placeholder index: 14, Type: BODY (2), Name: 'Espaço Reservado para Texto 5'
+_______________________________________________
+Details for layout 3: tabela_simples
+Placeholder index: 0, Type: TITLE (1), Name: 'Title 1'
+Placeholder index: 14, Type: BODY (2), Name: 'Espaço Reservado para Texto 5'
+Placeholder index: 15, Type: BODY (2), Name: 'Espaço Reservado para Texto 5'
+_______________________________________________
+Details for layout 4: Tabela_Grafico
+Placeholder index: 0, Type: TITLE (1), Name: 'Title 1'
+Placeholder index: 12, Type: BODY (2), Name: 'Espaço Reservado para Texto 5'
+Placeholder index: 13, Type: CHART (8), Name: 'Espaço Reservado para Gráfico 4'
+Placeholder index: 14, Type: BODY (2), Name: 'Espaço Reservado para Texto 5'
